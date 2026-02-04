@@ -75,7 +75,6 @@ const extensoes = [
 
 const containerExtensoes = document.querySelector('.container')
 
-
 extensoes.forEach((e) => {
  const index = e.index;
  const nome = e.nome;
